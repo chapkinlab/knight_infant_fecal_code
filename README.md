@@ -3,8 +3,7 @@ Infant Fecal Sequencing
 
 Follows the paper ["Non-invasive analysis of intestinal development in preterm 
 and term infants using 
-RNA-Sequencing"](http://www.nature.com/srep/2014/140626/srep05453/full/srep05453.html).  
-doi:10.1038/srep05453.
+RNA-Sequencing" doi:10.1038/srep05453.](http://www.nature.com/srep/2014/140626/srep05453/full/srep05453.html).
 
 Individuals sequenced at GE with 50bp single end read (Illumina 2500 I 
 presume). Three premature individuals:
